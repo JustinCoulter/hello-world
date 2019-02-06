@@ -1,2 +1,2 @@
 # hello-world
-first repository
+Hello people, I'm human and new to the game here.
